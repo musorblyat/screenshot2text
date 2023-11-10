@@ -12,7 +12,7 @@ This Python script converts images to text using the Tesseract OCR library. The 
  
 ## Example
 
-![Alt text](/images/ss2text.gif)
+![GIF](/images/ss2text.gif)
 
 
 ## Usage
