@@ -1,4 +1,4 @@
-![Icon](images/ss2text_icon.png)
+![Icon](/images/ss2text_icon.png)
 # screenshot2text
 
 
