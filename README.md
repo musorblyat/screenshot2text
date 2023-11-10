@@ -1,11 +1,5 @@
-         ___  _            _   
-        |__ \| |          | |  
- ___ ___   ) | |_ _____  _| |_ 
-/ __/ __| / /| __/ _ \ \/ / __|
-\__ \__ \/ /_| ||  __/>  <| |_ 
-|___/___/____|\__\___/_/\_\\__|                                                              
 # screenshot2text
-
+## 115 115 50 116 101 120 116 
 This Python script converts images to text using the Tesseract OCR library. The output text is displayed in a colorful format.![Icon](/images/icon.png)
 
 ## Prerequisites
