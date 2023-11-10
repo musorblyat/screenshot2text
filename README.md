@@ -9,6 +9,11 @@ This Python script converts images to text using the Tesseract OCR library. The 
 - Tesseract OCR installed on your system
   - On Ubuntu: `sudo apt-get install tesseract-ocr`
   - On Windows: Download and install from [Tesseract GitHub Releases](https://github.com/tesseract-ocr/tesseract/releases)
+ 
+## Example
+
+![Alt text](/images/ss2text.gif)
+
 
 ## Usage
 
