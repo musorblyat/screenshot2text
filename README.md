@@ -1,5 +1,5 @@
-
-# screenshot2text ![Icon](/images/icon.png)
+![Icon](/images/icon.png)
+# screenshot2text
 
 
 This Python script converts images to text using the Tesseract OCR library. The output text is displayed in a colorful format.
